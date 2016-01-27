@@ -1,6 +1,6 @@
 import React, {Component, PropTypes} from 'react';
 import classNames from 'classnames';
-import style from 'flexboxgrid';
+import style from 'flexboxgrid/dist/flexboxgrid.css';
 
 export default class Grid extends Component {
   render() {
